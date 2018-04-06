@@ -1,0 +1,1003 @@
+  297  node serveur.js 
+  298  sudo service mongod start
+  299  mongo --host 127.0.0.1:27017
+  300  git clone https://github.com/dxparker/promises-book-examples.git
+  301  node test1.js 
+  302  clear
+  303  node test1.js 
+  304  node async.js 
+  305  node test.js 
+  306  node test2
+  307  node test3.js 
+  308  youtube-dl https://www.youtube.com/watch?v=Jo3R0bG_MPQ
+  309  ping 8.8.8.8
+  310  sudo apt install leafpad
+  311  ping 8.8.8.8
+  312  npm install
+  313  mkdir ajax
+  314  cd ajax/
+  315  youtube-dl https://www.youtube.com/playlist?list=PLrwRNJX9gLs1WKmdX4rO5e2lVCpKL_cQl
+  316  node test0.js 
+  317  npm install
+  318  node test0.js 
+  319  npm install --save xmlhttprequest
+  320  node test0.js 
+  321  uname
+  322  uname -h
+  323  uname --help
+  324  uname -a
+  325  ping 8.8.8.8
+  326  ping 8.8.8.8
+  327  ls
+  328  youtube-dl https://www.youtube.com/playlist?list=PL5BcU-_5Oa_qQ-8fYphWP9yzjU4Wl0kI2
+  329  node index.js 
+  330  ping 8.8.8.8
+  331  touch query.html
+  332  ping 8.8.8.8
+  333  node -v
+  334  npm -v
+  335  cd Bureau/
+  336  ls
+  337  cd stage/
+  338  ls
+  339  cd react
+  340  mkdir react
+  341  cd react/
+  342  npm init -y
+  343  npm install react
+  344  npm install react --save
+  345  cd ..
+  346  rm react/ react.demo
+  347  rm react react.demo
+  348  mv react react.demo
+  349  cd react.demo/
+  350  npm install react --save
+  351  cd ..
+  352  mv react.demo/ demo
+  353  cd demo/
+  354  nop install react --save
+  355  npm install react --save
+  356  ls
+  357  rm package.json 
+  358  ls
+  359  npm install react --save
+  360  ls
+  361  gedit package-lock.json 
+  362  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  363  sudo apt-get update && sudo apt-get install yarn
+  364  yarn
+  365  sudo apt-get update && sudo apt-get install yarn
+  366  sudo curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  367  sudo apt-get update && sudo apt-get install yarn
+  368  yarn
+  369  sudo apt install cmdtest
+  370  sudo apt-get update && sudo apt-get install yarn
+  371  yarn -v
+  372  sudo purge yarn
+  373  sudo apt-get install --no-install-recommends yarn
+  374  sudo apt-get update && sudo apt-get install yarn
+  375  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  376  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  377  sudo apt-get update && sudo apt-get install yarn
+  378  yarn -v
+  379  sudo apt perge cmdtest
+  380  cmdtest 
+  381  sudo apt autoremove cmdtest
+  382  sudo apt-get update && sudo apt-get install yarn
+  383  yarn -v
+  384  cd Bureau/stage/demo/
+  385  yarn
+  386  ls
+  387  cd Bureau/stage/
+  388  sudo rm rf demo/
+  389  mkdir demo
+  390  ls
+  391  cd demo/
+  392  ls
+  393  cd ..
+  394  sudo rm -rf demo/
+  395  ls
+  396  mkdir demo
+  397  ls
+  398  cd demo/
+  399  ls
+  400  yarn init -y
+  401  ls
+  402  cat package.json 
+  403  yarn add react
+  404  cat package.json 
+  405  ls
+  406  cat yarn.lock 
+  407  clear
+  408  sudo apt install sublime
+  409  youtube-dl https://www.youtube.com/playlist?list=PLlxQJeQRaKDR94iHzoKL4D1hjVySbbDSd
+  410  cd
+  411  wget https://www.facebook.com/journalmaracanaalgerie/videos/10156332521873901/
+  412  youtube-dl https://www.facebook.com/journalmaracanaalgerie/videos/10156332521873901/
+  413  ls
+  414  wget http://img.file-upload.com:182/d/syxolvfznlgpv7w7rc3z6g2xyymu2afqteggjlh6tuwihcsgrcm3gvmogtr52tyb3mfcvcwy/[FreeTutorials.us]%20understand-javascript.zip
+  415  cd
+  416  cd /home/hamdi/Bureau/stage/
+  417  mv demo/
+  418  rm demo/
+  419  rm -rf  demo/
+  420  mkdir demo
+  421  cd demo/
+  422  ls
+  423  google-chrome hello.html 
+  424  ls
+  425  yarn install react
+  426  yarn add react
+  427  ping 8.8.8.8
+  428  hostname -I
+  429  Le stockage de session et le stockage local sont deux espaces distincts.
+  430  youtube-dl https://www.youtube.com/watch?v=R-c5NzvTgIM&list=PLjxKX38YWFbGM82MUzyMjCmaiN9rUHhsp&index=42
+  431  k
+  432  ping 8.8.8.8
+  433  ls -ll webstorm
+  434  ls -ll webstorm.sh 
+  435  sudo ./webstorm.sh 
+  436  sudo chmod +x freenet.jnlp 
+  437  sudo ./freenet.jnlp 
+  438  wget 'https://github.com/freenet/fred/releases/download/build01480/new_installer_offline_1480.jar' -O new_installer_offline.jar;
+  439  java -jar new_installer_offline.jar;
+  440  sudo java -jar new_installer_offline.jar;
+  441  ping 8.8.8.8
+  442  ls -l ZeroNet.sh 
+  443  sudo ./ZeroNet.sh 
+  444  ping facebook.com
+  445  ping 8.8.8.8
+  446  sudo ./ZeroNet
+  447  sudo ./ZeroNet.sh 
+  448  mkdir cache
+  449  cd cache/ 
+  450  touch cache
+  451  free
+  452  sudo apt-get install maven
+  453  ls
+  454  cd web
+  455  clone
+  456  git clone https://github.com/ippontech/tatami.git
+  457  sudo apt-get install gnome-tweak-tool
+  458  sudo apt-get install plank
+  459  sudo add-apt-repository ppa:noobslab/macbuntu
+  460  sudo apt-get install macbuntu-os-plank-theme-lts-v7
+  461  sudo apt-get autoremove plank macbuntu-os-plank-theme-v9
+  462  maven -version
+  463  mvn -version
+  464  java -version.
+  465  java -version
+  466  apt-cache search maven
+  467  sudo gedit .bashrc 
+  468  mvn -version
+  469  java --version
+  470  java -version
+  471  ls
+  472  git clone https://github.com/ippontech/tatami.git
+  473  ls
+  474  cd web
+  475  cd tatami/
+  476  ls
+  477  sudo /opt/lampp/lampp start
+  478  ls
+  479  npm install
+  480  cd web/
+  481  npm install
+  482  cd ..
+  483  sudo
+  484  sudo -s
+  485  mvn cassandra:run
+  486  mvn jetty:run
+  487  ls
+  488  cd src/
+  489  ls
+  490  cd main & ls
+  491  cd main/
+  492  ls
+  493  cd ..
+  494  cd main | ls
+  495  cd main | grep ls
+  496  cd main/
+  497  cd ..
+  498  cassandra
+  499  sudo apt install tomcat8
+  500  mvn run:tomcat8
+  501  locate index
+  502  pwd
+  503  cd /home/hamdi/tatami
+  504  locate /home/hamdi/tatami
+  505  locate /home/hamdi/tatami inde
+  506  locate index /home/hamdi/tatami
+  507  ping 8.8.8.8
+  508  ping facebook.com
+  509  youtube-dl https://m.youtube.com/watch?v=vvn8X8T3-w4&pbjreload=10
+  510  youtube-dl https://www.youtube.com/watch?v=pBky1jxqMhI
+  511  youtube-dl https://www.youtube.com/watch?v=QrNM2IhTlog
+  512  ls
+  513  cd Bureau/
+  514  ls
+  515  cd ZeroBundle/
+  516  ls
+  517  ./ZeroNet.
+  518  ./ZeroNet.sh 
+  519  suod ./ZeroNet.sh 
+  520  sudo ./ZeroNet.sh 
+  521  cd stage/
+  522  ls
+  523  youtube-dl  https://www.youtube.com/watch?v=84K4vREFUyY
+  524  ping 8.8.8.8
+  525  sudo ./ZeroNet
+  526  sudo ./ZeroNet.sh 
+  527  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+  528  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  529  sudo apt-key fingerprint 0EBFCD88
+  530  udo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  531     $(lsb_release -cs) \
+  532     stable"
+  533  sudo apt install udo
+  534  sudo apt-get install docker-ce
+  535  sudo apt-get update
+  536  sudo apt-get install docker-ce
+  537  docker
+  538  sudo usermod -aG docker $USER
+  539  lando start
+  540  sudo service docker start
+  541  lando start
+  542  docker
+  543  sudo apt-get purge docker-ce
+  544  sudo rm -rf /var/lib/docker
+  545  cd
+  546  ls
+  547  cd Bureau/
+  548  ls
+  549  youtube-dl https://www.youtube.com/watch?v=84K4vREFUyY&t=4s
+  550  kk
+  551  https://www.youtube.com/watch?v=FER6SEPnZws
+  552  youtube-dl https://www.youtube.com/watch?v=FER6SEPnZws
+  553  youtube-dl https://www.youtube.com/watch?v=A4t4LKI67RA
+  554  sudo -s
+  555  service apache2 stop
+  556  /opt/lampp/lampp start
+  557  chmod -R 775 radio/
+  558  sudo chmod -R 775 radio/
+  559  sudo chmod -R 777 radio/
+  560  ls -l htdocs/
+  561  ls -l
+  562  sudo chmod -R 775 htdocs/
+  563  mysql
+  564  mysql stop
+  565  sudo mysql stop
+  566  /opt/lampp/lampp stop
+  567  sudo /opt/lampp/lampp stop
+  568  date
+  569  ifconfig
+  570  hostname -I
+  571  sudo usermod -aG docker ${USER}
+  572  lando start
+  573  lando 
+  574  docker
+  575  sudo chmod -R 775 lampp/
+  576  sudo /opt/lampp/lampp restart
+  577  sudo service apache2 stop
+  578  sudo /opt/lampp/lampp start
+  579  sudo service apache2 stop
+  580  sudo /opt/lampp/lampp start
+  581  apt-cache policy docker-ce
+  582  sudo apt-get install -y docker-ce
+  583  sudo add-apt-repository “deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable”
+  584  apt-cache policy docker-ce
+  585  mysqld start
+  586  sudo mysqld start
+  587  $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  588  sudo apt-get install docker-ce
+  589  docbook-to-man 
+  590  docker-
+  591  apt-cache madison docker-ce
+  592  sudo apt-get install docker-ce
+  593  sudo docker run hello-world
+  594  sudo apt-get purge docker-ce
+  595  sudo rm -rf /var/lib/docker
+  596  sudo chmod 775 my.cnf 
+  597  sudo chmod 777 my.cnf 
+  598  locate php.ini
+  599  sudo /opt/lampp/lampp start
+  600  sudo /opt/lampp/lampp restart
+  601  sudo /opt/lampp/lampp stop
+  602  sudo /opt/lampp/lampp start
+  603  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  604  sudo add-apt-repository “deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable”
+  605  sudo apt-get update
+  606  apt-cache policy docker-ce
+  607  sudo apt-get update
+  608  apt-cache policy docker-ce
+  609  sudo apt-get remove docker docker-engine docker.io
+  610  udo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+  611  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+  612  sudo apt autoremove 
+  613  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+  614  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  615  sudo apt-key fingerprint 0EBFCD88
+  616  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  617     $(lsb_release -cs) \
+  618     stable"
+  619  sudo docker run hello-world
+  620  wget https://get.docker.com/ -O script.sh
+  621  chmod +x script.sh
+  622  ./script.shwget https://get.docker.com/ -O script.sh
+  623  chmod +x script.sh
+  624  ./script.sh
+  625  sudo ./script.sh
+  626  apt update
+  627  ls
+  628  sudo ./script.sh
+  629  cd /home/hamdi/.config
+  630  cd google-chrome/
+  631  ls
+  632  cd Default/
+  633  ls
+  634  cd Storage/
+  635  cd ext/
+  636  ls
+  637  cd nmmhkkegccagdldgiimedpiccmgmieda/
+  638  ls
+  639  cd def/
+  640  ls
+  641  cd Cache/
+  642  ls
+  643  gedit f608e43145d7fb50_0 
+  644  gedit index
+  645  c index
+  646  cd index-dir/
+  647  ls
+  648  gedit the-real-index 
+  649  visudo the-real-index 
+  650  atom the-real-index 
+  651  atom
+  652  ping 8.8.8.8
+  653  sudo -s
+  654  dd bs=4M if=Qubes-R3.2-x86_64.iso of=/dev/sdb1
+  655  cd Bureau/
+  656  ls
+  657  cd ZeroBundle/
+  658  ls
+  659  sudo ./ZeroNet
+  660  sudo ./ZeroNet.sh 
+  661  sudo dd bs=4M if=linuxmint-18.3-mate-64bit.iso of=/dev/sdb1
+  662  cd /opt/lampp/
+  663  ls
+  664  sudo -i
+  665  sudo -q
+  666  sudo -s
+  667  ls
+  668  ./uninstall
+  669  sudo -s
+  670  ./xampp-linux-x64-7.2.1-0-installer.run 
+  671  mysql_secure_installation
+  672  sudo mysql_secure_installation
+  673  mysql_secure_installation
+  674  mysql -u root
+  675  sudo mysql -u root
+  676  systemctl status mysql.service
+  677  sudo apt autoremove mysql
+  678  sudo apt purge mysql
+  679  mysqlmysqladmin -p -u root version
+  680  mysqladmin -p -u root version
+  681  sudo -s
+  682  gedit /etc/my.cnf
+  683  ls
+  684  cd /etc
+  685  ls
+  686  sudo mysql
+  687  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+  688  sudo sh -c 'echo /usr/local/mysql/bin > /etc/paths.d/mysql'
+  689  apt purge mysql-server
+  690  apt autoremove mysql-server
+  691  /opt/lampp/lampp start
+  692  docker
+  693  ls
+  694  cd
+  695  docker
+  696  apt install docker.io
+  697  docker
+  698  sudo docker run hello-world
+  699  lando
+  700  sudo usermod -aG docker $USER
+  701  sudo docker run hello-world
+  702  apt purge docker.io
+  703  apt autoremove docker.io
+  704  docker
+  705  apt purge docker
+  706  apt autoremove docker.io
+  707  apt purge docker.io
+  708  ls
+  709  sudo apt install docker.ce
+  710  sudo dpkg --configure -a
+  711  sudo apt install docker.ce
+  712  mysql
+  713  sudo dpkg -i lando-v3.0.0-beta.35\ \(1\).deb 
+  714  sudo apt install cgroupe-bin
+  715  jetty
+  716  sudo service apache2 start
+  717  sudo /opt/lampp/lampp stop
+  718  sudo service apache2 start
+  719  sudo dpkg -i docker-ce_17.12.0_ce-0_ubuntu_amd64.deb 
+  720  sudo docker run hello-world
+  721  sudo groupadd docker
+  722  sudo usermod -aG docker $USER
+  723  sudo apt install -f
+  724  sudo dpkg -i lando-v3.0.0-beta.35\ \(1\).deb 
+  725  ls
+  726  lando docker-compose.yml 
+  727  cd docker/
+  728  ls
+  729  cd  mysql/
+  730  ls
+  731  cd ..
+  732  cd web
+  733  ls
+  734  cd ..
+  735  ls
+  736  lando 
+  737  lando  drupal
+  738  lando start
+  739  sudo lando start
+  740  cd conf/
+  741  ls
+  742  gedit tomcat-users.xml 
+  743  sudo systemctl restart tomcat
+  744  sudo service restart tomcat
+  745  sudo service tomcat8 restart 
+  746  sudo apt install tomcat7-docs
+  747  sudo apt install tomcat8-docs
+  748  sudo apt install tomcat7-admin
+  749  sudo apt install tomcat8-admin
+  750  exit
+  751  youtube-dl https://www.youtube.com/watch?v=A4t4LKI67RA&t=5s
+  752  java -verersion
+  753  java --verersion
+  754  java --v
+  755  java --version
+  756  java -version
+  757  ls
+  758  cd apache-tomcat-8.5.28/
+  759  ls
+  760  cd conf/
+  761  cd conf
+  762  sudo cd conf
+  763  sudo gedit conf/
+  764  sudo -s
+  765  sudo apt install tomcat7-examples
+  766  sudo apt install tomcat8-examples
+  767  ls
+  768  sudo -s
+  769  cd conf/
+  770  ls
+  771  gedit tomcat-users.xml 
+  772  sudo service tomcat8 restart 
+  773  gedit tomcat-users.xml 
+  774  cd /usr/local/
+  775  mkdir tomcat
+  776  sudo mkdir tomcat
+  777  ls
+  778  cd tomcat/
+  779  sudo -s
+  780  ls
+  781  tar -xzvf apache-tomcat-8.5.28.tar.gz 
+  782  ls
+  783  sudo gedit /opt/tomcat/conf/tomcat-users.xml
+  784  service tomcat8 stop
+  785  service tomcat8 start
+  786  service tomcat8 stop
+  787  service tomcat8 start
+  788  service tomcat8 stop
+  789  service tomcat8 start
+  790  sudo service tomcat8 stop
+  791  service tomcat8 stop
+  792  sudo /opt/lampp/lampp start
+  793  service apache2 stop
+  794  sudo /opt/lampp/lampp start
+  795  sudo ./idea.sh 
+  796  ping 8.8.8.8
+  797  libreoffice 
+  798  sudo apt install discover-channel
+  799  sudo apt install ettercap
+  800  ping 8.8.8.8
+  801  git clone https://github.com/GuillaumeUnice/ServiceWorkerTutorial.git
+  802  npm i
+  803  npm i
+  804  cd ..
+  805  ls
+  806  cd frontend/
+  807  npm i
+  808  npm start
+  809  cd ..
+  810  npm start
+  811  ls
+  812  cd webPushServer/
+  813  npm start
+  814  firefox -v
+  815  git clone https://github.com/w3c/ServiceWorker.git
+  816  git clone https://github.com/pinterest/service-workers.git
+  817  ls
+  818  git clone https://github.com/gist-run/worker.git
+  819  yarn install
+  820  yarn test
+  821  yarn run lint
+  822  yarn start
+  823  npm install
+  824  cd webPushServer/
+  825  Content-Type: application/json
+  826  npm run generate
+  827  npm install -g browser-sync
+  828  npm install  browser-sync
+  829  google-chrome -v
+  830  google-chrome --version
+  831  wget https://youtu.be/BR1uDU4yzcw
+  832  exit
+  833  ping 8.8.8.8
+  834  hostname -I
+  835  youtube-dl -x --audio-fformat 
+  836  youtube-dl -h 
+  837  youtube-dl -x --audio-format mp3 https://www.facebook.com/1103205809747513/videos/1292221414179284/
+  838  cd Bureau/stage/web\ worker/
+  839  ls
+  840  git clone https://github.com/mdn/simple-web-worker.git
+  841  ls
+  842  cd simple-web-worker/
+  843  ls
+  844  google-chrome index.html 
+  845  Chrome --disable-web-security
+  846  google-Chrome --disable-web-security
+  847  google-chrome
+  848  google-chrome --disable-web-security
+  849  node jsx.js 
+  850  node main.js
+  851  ls
+  852  cd woker/
+  853  node main.js 
+  854  cd Bureau/stage/node/
+  855  ls
+  856  sudo service networking restart
+  857  ping 8.8.8.8
+  858  git clone https://github.com/lakshyaranganath/pwa.git
+  859  ls
+  860  cd pwa/
+  861  npm install
+  862  npm start
+  863  npm run development
+  864  npm start
+  865  npm run staging
+  866  sudo apt install netbeans
+  867  ping 8.8.8.8
+  868  npm install
+  869  npm start
+  870  hostname I
+  871  hostname -I
+  872  npm install
+  873  npm start
+  874  sudo apt install sublime
+  875  sudo apt install sublimetext
+  876  sudo apt install sublime-text
+  877  npm start
+  878  npm install
+  879  npm start
+  880  npm install
+  881  npm start
+  882  npm start
+  883  npm install
+  884  npm start
+  885  android
+  886  npm install
+  887  hostname -I
+  888  npm install
+  889  npm start
+  890  hostname -I
+  891  npm start
+  892  hostname -I
+  893  npm start
+  894  hostname -I
+  895  npm start
+  896  npm start
+  897  npm install
+  898  npm start
+  899  cd ..
+  900  npm start
+  901  ls
+  902  cd webPushServer/
+  903  ls
+  904  npm start
+  905  git clone https://github.com/jakearchibald/wittr
+  906  ls
+  907  cd wittr/
+  908  ls
+  909  npm install
+  910  npm start
+  911  ls
+  912  cd server/
+  913  ls
+  914  node Server.js 
+  915  ping 8.8.8.8
+  916  git clone https://github.com/dockersamples/atsea-sample-shop-app.git
+  917  mkdir certs
+  918  cd certs/
+  919  openssl req -newkey rsa:4096 -nodes -sha256 -keyout certs/domain.key -x509 -days 365 -out certs/domain.crt
+  920  docker secret create revprox_cert certs/domain.crt
+  921  ls
+  922  cd ..
+  923  docker secret create revprox_cert certs/domain.crt
+  924  openssl req -newkey rsa:4096 -nodes -sha256 -keyout certs/domain.key -x509 -days 365 -out certs/domain.crt
+  925  docker secret create revprox_cert certs/domain.crt
+  926  firefox -v
+  927  google-chrome -v
+  928  google-chrome --version
+  929  ping 8.8.8.8
+  930  git clone https://github.com/googlearchive/progressive-webapp-config.git
+  931  npm run
+  932  npm start
+  933  npm install
+  934  npm run precache
+  935  npm install
+  936  npm run
+  937  sudo npm run precache
+  938  npm install
+  939  npm start
+  940  gitb clone https://github.com/hemanth/generator-pwa.git
+  941  git clone https://github.com/hemanth/generator-pwa.git
+  942  npm install
+  943  npm start
+  944  npm install yo
+  945  npm install generator-pwa
+  946  yo pwa
+  947  npm yo pwa
+  948  gulp
+  949  npm start
+  950  touch SW.txt
+  951  npm install 
+  952  npm start
+  953  ping 8.8.8.8
+  954  npm start
+  955  npm install
+  956  npm start
+  957  npm install
+  958  npm start
+  959  npm install
+  960  npm start
+  961  npm install
+  962  npm start
+  963  npm install
+  964  npm start
+  965  google-chrome --version
+  966  npm start
+  967  npm start
+  968  hostname -I
+  969  docker
+  970  sudo apt install -y python-pip
+  971  sudo apt install docker-compose
+  972  usermod -aG docker ${USER}
+  973  sudo usermod -aG docker ${USER}
+  974  chmod -R 777 /var/lib/docker/
+  975  sudo chmod -R 777 /var/lib/docker/
+  976  mkdir /var/lib/docker/
+  977  sudo mkdir /var/lib/docker/tmp
+  978  sudo systemctl start docker
+  979  sudo systemctl enable docker
+  980  cd Bureau/
+  981  mkdir test
+  982  cd test/
+  983  mkdir cms
+  984  cd Bureau/test/cms/
+  985  touch docker-compose.yml
+  986  gedit docker-compose.yml 
+  987  ls
+  988  docker-compose up -d
+  989  hostname -I
+  990  docker-compose up -d
+  991  hostname -I
+  992  netstat -a
+  993  netstat -up
+  994  lsof -i TCP| fgrep LISTEN
+  995  netstat -lntu
+  996  git clone https://github.com/planetoftheweb/progressive.git
+  997  npm install
+  998  npm staart
+  999  npm start
+ 1000  npm gulp
+ 1001  gulp
+ 1002  sudo apt install gulp
+ 1003  npm start
+ 1004  lsof -i
+ 1005  locate test
+ 1006  hostname -I
+ 1007  npm start
+ 1008  npm install
+ 1009  ping 8.8.8.8
+ 1010  touch Dockerfile
+ 1011  npm install
+ 1012  npm start
+ 1013  hostname -I
+ 1014  node server.js 
+ 1015  node index.js 
+ 1016  RUN npm install
+ 1017  ls
+ 1018  touch .dockerignore
+ 1019  gedit .dockerignore 
+ 1020  docker build -t <your username>/node-web-app
+ 1021  docker build -t <hamdi>/node
+ 1022  docker build -t 
+ 1023  docker build t 
+ 1024  docker images
+ 1025  curl -i localhost:49160
+ 1026  .
+ 1027  sudo dd bs=4MS if=xubuntu-16.04.4-desktop-amd64.iso of=/dev/sdb
+ 1028  sudo dd bs=4M if=xubuntu-16.04.4-desktop-amd64.iso of=/dev/sdb
+ 1029  sudo add-apt-repository ppa:noobslab/macbuntu
+ 1030  sudo apt-get update
+ 1031  sudo apt-get install macbuntu-os-icons-lts-v7
+ 1032  sudo apt-get install slingscold
+ 1033  sudo apt-get install albert
+ 1034  sudo apt-get install macbuntu-os-plank-theme-lts-v7
+ 1035  sudo apt-get install libreoffice-style-sifr
+ 1036  wget -O mac-fonts.zip http://drive.noobslab.com/data/Mac/macfonts.zip
+ 1037  sudo unzip mac-fonts.zip -d /usr/share/fonts ; rm mac-fonts.zip
+ 1038  sudo fc-cache -f -v
+ 1039  dd bs=4M if=Fedora-Xfce-Live-x86_64-27-1.6.iso of=/dev/sdb
+ 1040  sudo dd bs=4M if=Fedora-Xfce-Live-x86_64-27-1.6.iso of=/dev/sdb
+ 1041  sudo dd bs=4M if=Fedora-MATE_Compiz-Live-x86_64-27-1.6.iso of=/dev/sdb
+ 1042  node -v
+ 1043  npm -v
+ 1044  npm install -g create-react-app
+ 1045  create-react-app my-app
+ 1046  npm install -g create-react-app
+ 1047  create-react-app memory
+ 1048  sudo npm install -g create-react-app
+ 1049  ls
+ 1050  cd create-react-app memory
+ 1051  create-react-app memory
+ 1052  npm start
+ 1053  npm install --glabal create-react-app
+ 1054  ls
+ 1055  create-react-app memory
+ 1056  npm create-react-app memory
+ 1057  npm start
+ 1058  ls
+ 1059  code .
+ 1060  sudo dd bs=4M if=Fedora-Workstation-Live-x86_64-27-1.6.iso of=/dev/sdb
+ 1061  git clone https://github.com/facebook/create-react-app.git
+ 1062  npm install
+ 1063  npm start
+ 1064  cd Téléchargements/
+ 1065  cd maquete/
+ 1066  httrack http://flatfull.com/themes/first/index.html
+ 1067  cd demo\ 2/
+ 1068  httrack http://themepixels.me/katniss/app/index.html
+ 1069  ls
+ 1070  rm *
+ 1071  rm -R *
+ 1072  ls
+ 1073  httrack http://themepixels.me/katniss/app/index.html
+ 1074  ls
+ 1075  google-chrome index.html 
+ 1076  python
+ 1077  sudo pip install keras
+ 1078  keras
+ 1079  python keras
+ 1080  ls
+ 1081  ipython
+ 1082  node 
+ 1083  ls
+ 1084  cd Bureau/
+ 1085  cd node_project/
+ 1086  node serveur.js 
+ 1087  youtube-dl -x --audio-format mp3 https://www.facebook.com/100006259606108/videos/2028970147321619/
+ 1088  cd ./open-classroom/
+ 1089  ls
+ 1090  cd ../views
+ 1091  cd ../open-classroom/
+ 1092  ls
+ 1093  npm install express
+ 1094  node test.js 
+ 1095  mkdir open-classroom
+ 1096  rm test.js open-classroom/
+ 1097  cd open-classroom/
+ 1098  toshs server.js
+ 1099  toch server.js
+ 1100  touch server.js
+ 1101  ls
+ 1102  npm install
+ 1103  node test.js 
+ 1104  node server.js 
+ 1105  npm install ejs
+ 1106  node server.js 
+ 1107  mkdir views
+ 1108  touch chambre.ejs
+ 1109  ls
+ 1110  touch c.ejs
+ 1111  node server.js 
+ 1112  npm install ejs-lint
+ 1113  node server.js 
+ 1114  npm install morgan
+ 1115  node server.js 
+ 1116  npm install serve-favicon
+ 1117  node server.js 
+ 1118  sudo apt install skype
+ 1119  skype
+ 1120  express -version
+ 1121  npm install
+ 1122  npm install ejs
+ 1123  npm i body-parser
+ 1124  npm init
+ 1125  npm install --express --save
+ 1126  npm install body-parser --save
+ 1127  npm install cookie-parser --save
+ 1128  npm install multer --save
+ 1129  npm install express --save
+ 1130  node index.js 
+ 1131  node post.js 
+ 1132  npm install
+ 1133  node app.js 
+ 1134  composer create-project laravel/laravel laravel5 --prefer-dist
+ 1135  sudo apt install filezella
+ 1136  sudo apt install filezilla
+ 1137  sudo apt install composer
+ 1138  npm install cookie-session
+ 1139  npm install socket.io
+ 1140  npm init
+ 1141  npm install socket.io
+ 1142  npm install express --save
+ 1143  git clone https://github.com/hamdimiled/Blog-with-laravel.git
+ 1144  sudo /opt/lampp/lampp start
+ 1145  sudo service apache2 stop
+ 1146  sudo /opt/lampp/lampp start
+ 1147  composer update
+ 1148  php artisan key:generate
+ 1149  php artisan migrate
+ 1150  php artisan serve
+ 1151  php artisan serve --8888
+ 1152  php artisan serve -port 8888
+ 1153  php artisan serve --port 8888
+ 1154  gem install mongify
+ 1155  sudo gem install mongify
+ 1156  mogrify
+ 1157  mongo
+ 1158  node app.js
+ 1159  npm install
+ 1160  mongo
+ 1161  npm install
+ 1162  npm start
+ 1163  npm app.js 
+ 1164  node app.js 
+ 1165  ls
+ 1166  node app.js 
+ 1167  sudo service tomcat8 stop
+ 1168  sudo apt remove tomcat8
+ 1169  mongo --version
+ 1170  git clone
+ 1171  git clone https://github.com/mschwarzmueller/nodejs-basics-tutorial.git
+ 1172  mongod
+ 1173  mongo
+ 1174  mongod
+ 1175  mongo start
+ 1176  ./mongo
+ 1177  mongo
+ 1178  sudo /opt/lampp/lampp stop
+ 1179  mongo
+ 1180  sudo service mongod start
+ 1181  mongo
+ 1182  sudo apt-get purge mongodb-org*
+ 1183  sudo rm -r /var/log/mongodb
+ 1184  sudo rm -r /var/lib/mongodb
+ 1185  mongo_console 
+ 1186  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2930ADAE8CAF5059EE73BB4B58712A2291FA4AD5
+ 1187  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.6 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.6.list
+ 1188  sudo apt-get update
+ 1189  sudo apt-get install -y mongodb-org
+ 1190  echo "mongodb-org hold" | sudo dpkg --set-selections
+ 1191  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+ 1192  echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+ 1193  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+ 1194  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+ 1195  sudo service mongod start
+ 1196  sudo systemctl unmask mongodb
+ 1197  sudo service mongod start
+ 1198  [initandlisten] waiting for connections on port 27017
+ 1199  cat /var/log/mongodb/mongod.log
+ 1200  mongo 
+ 1201  node server.js 
+ 1202  node app.js 
+ 1203  netstat -paunt
+ 1204  netstat -paunt | 8000
+ 1205  gedit netstat -pount
+ 1206  gedit netstat -paunt
+ 1207  netstat -paunt >> gedit.txt
+ 1208  netstat -paunt >> a.txt
+ 1209  sudo netstat -paunt >> a.txt
+ 1210  ls
+ 1211  gedit gedit.txt 
+ 1212  sudo /opt/lampp/lampp start
+ 1213  node server.js 
+ 1214  locate php.ini
+ 1215  sudo gedit php.ini
+ 1216  sudo /opt/lampp/lampp stop
+ 1217  sudo /opt/lampp/lampp start
+ 1218  sudo gedit php.ini
+ 1219  ping 8.8.8.8
+ 1220  node app.js 
+ 1221  npm install
+ 1222  npm start
+ 1223  cd /opl
+ 1224  cd /opt/
+ 1225  ls
+ 1226  mongo
+ 1227  sudo service mongod start
+ 1228  mongod
+ 1229  mongo
+ 1230  mongod
+ 1231  npm start
+ 1232  mkdir work
+ 1233  cp -r step-02/* work
+ 1234  npm start
+ 1235  git clone https://github.com/mschwarzmueller/reactjs-basics.git
+ 1236  npm init
+ 1237  ls
+ 1238  hostaname -I
+ 1239  hostname -I
+ 1240  npm install webpack webpack-dev-server babel-loader babel-perset-es2015 babel-perset-react babel-perset-stage-2 --save-dev
+ 1241  npm install webpack webpack-dev-server babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save-dev
+ 1242  npm install react react-dom
+ 1243  ping 8.8.8.8
+ 1244  npm install
+ 1245  ping 8.8.8.8
+ 1246  ls
+ 1247  cd Musique/
+ 1248  cd ./Images
+ 1249  cd ../Images
+ 1250  npm start
+ 1251  npm install babel-core --save-dev
+ 1252  npm start
+ 1253  npm run build
+ 1254  git clone https://github.com/mschwarzmueller/reactjs-basics.git
+ 1255  git clone https://github.com/mschwarzmueller/reactjs-basics.git
+ 1256  git clone https://github.com/mschwarzmueller/reactjs-basics.git
+ 1257  git clone https://github.com/mschwarzmueller/reactjs-basics.git
+ 1258  npm install
+ 1259  npm start
+ 1260  npm install babel-core
+ 1261  npm start
+ 1262  npm install babel-core --save-dev
+ 1263  npm start
+ 1264  npm install 
+ 1265  npm install
+ 1266  npm create-react-app my-app
+ 1267  npm create-react-app
+ 1268  npx create-react-app my-app
+ 1269  npm start
+ 1270  npm install create-react-app my-app
+ 1271  npm install create-react-app
+ 1272  create-react-app my-app
+ 1273  npm start
+ 1274  npm install 
+ 1275  npm start
+ 1276  dd bs=4M if=xubuntu-16.04.4-desktop-amd64.iso of=/dev/sdb
+ 1277  sudo dd bs=4M if=xubuntu-16.04.4-desktop-amd64.iso of=/dev/sdb
+ 1278  npm install create-react-app
+ 1279  npm start
+ 1280  npm start
+ 1281  git clone https://github.com/KleoPetroff/react-webpack-boilerplate.git
+ 1282  npm install
+ 1283  npm start
+ 1284  firebase init
+ 1285  firebase  login
+ 1286  firebase init
+ 1287  firebase use --add 
+ 1288  firebase deploy
+ 1289  npm start
+ 1290  npm run production
+ 1291  firebase deploy
+ 1292  npm start
+ 1293  firebase deploy
+ 1294  npm start
+ 1295  firebase deploy
+ 1296  history >> history.txt
+
+https://firebase.google.com/docs/hosting/deploying
+https://github.com/hamdimiled/react-webpack-boilerplate
