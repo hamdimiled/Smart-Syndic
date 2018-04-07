@@ -123,12 +123,9 @@ class MiniDrawer extends React.Component {
     this.setState({ anchorEl: event.currentTarget });
   };
 
-/*   handleClose = () => {
+  handleClose = () => {
     this.setState({ anchorEl: null });
-  }; */
-
- // handleClose = () => this.setState({open: false});
-
+  };
 
 
 
