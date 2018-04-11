@@ -239,6 +239,7 @@ class MiniDrawer extends React.Component {
           <Typography noWrap>{'You think water moves fast? You should see ice.'}</Typography>
         </main>
       </div>
+      
     );
   }
 }
@@ -249,3 +250,4 @@ MiniDrawer.propTypes = {
 };
 
 export default withStyles(styles, { withTheme: true })(MiniDrawer);
+

@@ -5,7 +5,6 @@ import React, { Component } from 'react';
 
 import MiniDrawer from './MiniDrawer';
 
-
 //import AppBarExampleIcon from "./Appbar"
 import { BrowserRouter } from 'react-router-dom';
 //import {Router, Route, browserHistory, IndexRoute} from "react-router";
